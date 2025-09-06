@@ -16,7 +16,7 @@
 
 # 收錄遊戲畫面預覽
 * Blockade
-<img src="[https://example.com/image.jpg](https://github.com/channel2007/FamicomBasicGame/blob/master/preview/Blockade.jpg)" alt="Blockade" width="128" height="128">
+<img src="https://github.com/channel2007/FamicomBasicGame/blob/master/preview/Blockade.jpg" alt="Blockade" width="128" height="128">
 
 * Cross
   * ![alt Cross](https://github.com/channel2007/FamicomBasicGame/blob/master/preview/Cross.jpg "Cross")
