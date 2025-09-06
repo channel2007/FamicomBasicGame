@@ -16,7 +16,8 @@
 
 # 收錄遊戲畫面預覽
 * Blockade
- 
+![alt Blockade](https://github.com/channel2007/FamicomBasicGame/blob/master/preview/Blockade.jpg "Blockade")
+
 # 參考資料
 * [Micom Basic January Family Basic Games](https://archive.org/details/micom-basic-january-family-basic-games-ozidual/Family+Basic+Audio/Micom+Basic+1985+01+-+Stardust+BG.wav)
 * [Famicom Data Recorder Cassette (Data and Game)](https://archive.org/details/famicom-data-recorder-tape-data-and-game-ozidual)
