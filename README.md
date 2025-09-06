@@ -2,8 +2,8 @@
 收集並整理網路大神製作的Famicom Basic遊戲
 
 # 所需軟體
-* virtuanes模擬器
-* Famicom Basic V3 ROM
+* [virtuanes模擬器](http://virtuanes.s1.xrea.com/vnes_dl.php)
+* Famicom Basic V3
 
 # 檔案說明
 * 每個ZIP檔案是是一個Famicom Basic遊戲
@@ -14,3 +14,5 @@
    
 # 參考資料
 * [Micom Basic January Family Basic Games](https://archive.org/details/micom-basic-january-family-basic-games-ozidual/Family+Basic+Audio/Micom+Basic+1985+01+-+Stardust+BG.wav)
+* [Famicom Data Recorder Cassette (Data and Game)](https://archive.org/details/famicom-data-recorder-tape-data-and-game-ozidual)
+* [Lets Play With Family Basic Cassette Tape (Data and Audio)](https://archive.org/details/lets-play-with-family-basic-cassette-tape-data-and-audio-ozidual)
