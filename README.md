@@ -12,7 +12,7 @@
   * wav <DIR>：遊戲原始碼、畫面原始碼檔案(供Famicom Basic實體卡帶讀取遊戲原始碼用)
 
 # 使用方法
-* 開啟virtuanes模擬器並載入Famicom Basic V3，解壓縮想要玩的遊戲將fbv3.0目錄內的檔案拉進virtuanes模擬器視窗
+* 開啟virtuanes模擬器並載入Famicom Basic V3，解壓縮想要玩的遊戲並將fbv3.0目錄內的檔案拉進virtuanes模擬器內
 
 # 收錄遊戲畫面預覽
 | 遊戲名稱 | 圖片預覽 | 遊戲名稱 | 圖片預覽 | 遊戲名稱 | 圖片預覽 |
