@@ -19,6 +19,7 @@
 |:------|:----:|:------|:----:|:------|:----:|
 | Blockade | ![alt Cross](preview/Blockade.jpg "Blockade") | Cross | ![alt Cross](preview/Cross.jpg "Cross") | Dark | ![alt Dark](preview/Dark.jpg "Dark")
 | Flies | ![alt Flies](preview/Flies.jpg "Flies") | PenPen | ![alt PenPen](preview/PenPen.jpg "PenPen") | STARDUST | ![alt STARDUST](preview/STARDUST.jpg "STARDUST")
+| WellofAlka | ![alt WellofAlka](preview/WellofAlka.jpg "WellofAlka") | | | | 
 
 # 參考資料
 * [Micom Basic January Family Basic Games](https://archive.org/details/micom-basic-january-family-basic-games-ozidual/Family+Basic+Audio/Micom+Basic+1985+01+-+Stardust+BG.wav)
