@@ -15,15 +15,11 @@
 * 開啟virtuanes模擬器並載入Famicom Basic V3，解壓縮想要玩的遊戲將fbv3.0目錄內的檔案拉進virtuanes模擬器視窗
 
 # 收錄遊戲畫面預覽
-* Blockade
-<img src="https://github.com/channel2007/FamicomBasicGame/blob/master/preview/Blockade.jpg" alt="Blockade" width="128" height="128">
-
-* Cross
-  * ![alt Cross](https://github.com/channel2007/FamicomBasicGame/blob/master/preview/Cross.jpg "Cross")
-
 | 遊戲名稱 | 圖片預覽 | 遊戲名稱 | 圖片預覽 | 遊戲名稱 | 圖片預覽 |
 |:------|:----:|:------|:----:|:------|:----:|
-| Blockade | ![alt Cross](https://github.com/channel2007/FamicomBasicGame/blob/master/preview/Blockade.jpg "Blockade") | Cross | ![alt Cross](https://github.com/channel2007/FamicomBasicGame/blob/master/preview/Cross.jpg "Cross") | Dark | ![alt Cross](https://github.com/channel2007/FamicomBasicGame/blob/master/preview/Dark.jpg "Dark")
+| Blockade | ![alt Cross](https://github.com/channel2007/FamicomBasicGame/blob/master/preview/Blockade.jpg "Blockade") | Cross | ![alt Cross](https://github.com/channel2007/FamicomBasicGame/blob/master/preview/Cross.jpg "Cross") | Dark | ![alt Dark](https://github.com/channel2007/FamicomBasicGame/blob/master/preview/Dark.jpg "Dark")
+| Flies | ![alt Flies](https://github.com/channel2007/FamicomBasicGame/blob/master/preview/Flies.jpg "Flies") | PenPen | ![alt PenPen](https://github.com/channel2007/FamicomBasicGame/blob/master/preview/PenPen.jpg "PenPen") | STARDUST | ![alt STARDUST](https://github.com/channel2007/FamicomBasicGame/blob/master/preview/STARDUST.jpg "STARDUST")
+
 
 # 參考資料
 * [Micom Basic January Family Basic Games](https://archive.org/details/micom-basic-january-family-basic-games-ozidual/Family+Basic+Audio/Micom+Basic+1985+01+-+Stardust+BG.wav)
