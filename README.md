@@ -8,7 +8,7 @@
 # 檔案說明
 * 每個ZIP檔案是是一個Famicom Basic遊戲
 * ZIP內目錄說明：
-  * fbv3.0 <DIR>:virtuanes模擬器狀態進度(載入Famicom Basic V3 ROM將此目錄內的檔案拉進virtuanes視窗就可以直接玩遊戲)
+  * fbv3.0 <DIR>:virtuanes模擬器狀態進度(載入Famicom Basic V3將此目錄內的檔案拉進virtuanes視窗就可直接玩遊戲)
   * vtp <DIR>：遊戲原始碼、畫面原始碼錄製檔案(供virtuanes模擬器讀取Famicom Basic遊戲原始碼用)
   * wav <DIR>：遊戲原始碼、畫面原始碼檔案(供Famicom Basic實體卡帶讀取遊戲原始碼用)
    
