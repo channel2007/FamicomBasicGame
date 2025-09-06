@@ -21,12 +21,9 @@
 * Cross
   * ![alt Cross](https://github.com/channel2007/FamicomBasicGame/blob/master/preview/Cross.jpg "Cross")
 
-| 功能 | 描述 | 状态 |
-|------|------|:----:|
-| **用户登录** | 支持邮箱和手机号登录 | &#x2705; |
-| *密码重置* | 通过邮箱重置密码 | &#x26a0;&#xfe0f; |
-| `API接口` | RESTful API 设计 | &#x2705; |
-| [文档链接](https://example.com) | 查看详细文档 | &#x1f4d6; |
+| 遊戲名稱 | 圖片預覽 | 遊戲名稱 | 圖片預覽 | 遊戲名稱 | 圖片預覽 |
+|:------|:----:|:------|:----:|:------|:----:|
+| Blockade | ![alt Cross](https://github.com/channel2007/FamicomBasicGame/blob/master/preview/Cross.jpg "Cross") | Cross | ![alt Cross](https://github.com/channel2007/FamicomBasicGame/blob/master/preview/Cross.jpg "Cross") Cross | ![alt Cross](https://github.com/channel2007/FamicomBasicGame/blob/master/preview/Cross.jpg "Cross")
 
 # 參考資料
 * [Micom Basic January Family Basic Games](https://archive.org/details/micom-basic-january-family-basic-games-ozidual/Family+Basic+Audio/Micom+Basic+1985+01+-+Stardust+BG.wav)
